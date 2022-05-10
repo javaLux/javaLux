@@ -1,4 +1,4 @@
-- 🤟 Hi Folks, I’m @javaLux and my real name is Christian Schmidt. I'm Junior Software Developer and come from Germany.
+- 🤟 Hi Folks, I’m @javaLux and my real name is Christian. I'm Junior Software Developer and come from Germany.
 - 
 - 🖥️ Currently working at PDV-GmbH in Erfurt (Germany)
 - 👀 I’m interested in Software developing and Software engineering
