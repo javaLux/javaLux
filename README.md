@@ -1,8 +1,8 @@
-- 🤟 Hi Folks, I’m @javaLux and my real name is Christian. I'm Junior Software Developer and come from Germany.
+- 🤟 Hi Folks, I’m @javaLux and I'm Junior Software Developer and come from Germany.
 - 
-- 🖥️ Currently working at PDV-GmbH in Erfurt (Germany)
+- 🖥️ Currently working at Ibykus AG
 - 👀 I’m interested in Software developing and Software engineering
-- 🌱 I’m currently learning Java, Groovy and all over DevOps
+- 🌱 I’m currently learning Java, Rust and all over Cloud Computing.
 
 <!---
 javaLux/javaLux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
